@@ -4,8 +4,7 @@ import "./nav.css";
 import { FaRegEye } from "react-icons/fa";
 import { MdOutlineContactSupport } from "react-icons/md";
 import { IoMail } from "react-icons/io5";
-import Me from "../../assets/صورة واتساب بتاريخ 2024-06-26 في 02.41.01_38c03558.jpg";
-
+import Me from "../../assets/wts.jpg"
 const Navbar = () => {
   return (
     <nav id="nav">
