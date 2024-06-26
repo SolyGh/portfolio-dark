@@ -1,6 +1,5 @@
 import React from "react";
 import "./Contact.css";
-import { CiMail } from "react-icons/ci";
 import { IoPersonSharp } from "react-icons/io5";
 import { FaLocationArrow } from "react-icons/fa6";
 import { FaTelegramPlane } from "react-icons/fa";
@@ -20,7 +19,7 @@ const Contact = () => {
           <p>Phone: +00 151515</p>
         </div>
         <div className="contact__options">
-          <CiMail className="contact__icon" />
+          <FaLocationArrow className="contact__icon" />
           <p>Email: mail@mail.com</p>
         </div>
       </div>
