@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.879be26e.css",
+    "main.js": "/static/js/main.2b410bbe.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/sailboat.jpg": "/static/media/sailboat.c766b76fb0102dcbe759.jpg",
+    "static/media/صورة واتساب بتاريخ 2024-06-26 في 02.41.01_38c03558.jpg": "/static/media/صورة واتساب بتاريخ 2024-06-26 في 02.41.01_38c03558.448227007a6b4700bcf2.jpg",
+    "static/media/man_smoke.jpg": "/static/media/man_smoke.be65cfa00bf8852b2ab9.jpg",
+    "static/media/rocks.jpg": "/static/media/rocks.44d94ae2ef4905b18ac1.jpg",
+    "static/media/wedding.jpg": "/static/media/wedding.224ef45577b5e797b8b1.jpg",
+    "static/media/underwater.jpg": "/static/media/underwater.9d47d01056ded4b8898c.jpg",
+    "static/media/chef.jpg": "/static/media/chef.aa8da15af1ab13f3e49e.jpg",
+    "static/media/p6.jpg": "/static/media/p6.321ab37c47d757988f00.jpg",
+    "static/media/avatar_g2.jpg": "/static/media/avatar_g2.34d0c00a754ed03fe0b8.jpg",
+    "index.html": "/index.html",
+    "main.879be26e.css.map": "/static/css/main.879be26e.css.map",
+    "main.2b410bbe.js.map": "/static/js/main.2b410bbe.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879be26e.css",
+    "static/js/main.2b410bbe.js"
+  ]
+}
