@@ -1,0 +1,88 @@
+.section {
+  padding: 20px 150px;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+h1,
+h4,
+h3,
+h2,
+h5,
+p {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+.btn {
+  margin-top: 20px;
+  /* padding: 10px 20px; */
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  border: none;
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+}
+#about,
+#price,
+#testimonials,
+#projects,
+#contact,
+#footer {
+  top: 0;
+  margin: 0 100px;
+  height: auto;
+}
+
+.app_container {
+  display: flex;
+}
+.app_content {
+  flex-grow: 1;
+}
+
+/**small screens*/
+@media screen and (max-width: 768px) {
+  .app_container {
+    flex-direction: column;
+  }
+  .app_content {
+    flex-wrap: wrap;
+  }
+
+  .section {
+    padding: 0px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  #about,
+  #price,
+  #testimonials,
+  #projects,
+  #contact,
+  #footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 50px;
+  }
+}
