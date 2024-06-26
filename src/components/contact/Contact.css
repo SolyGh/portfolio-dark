@@ -1,0 +1,82 @@
+.contact__header {
+  padding-bottom: 20px;
+  align-self: left;
+  font-size: 28px;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+.contact__header::after {
+  content: "";
+  position: absolute;
+  width: 40%;
+  height: 1px;
+  bottom: -5px;
+  left: 0;
+  background-color: #e4e4e4;
+}
+.contact__options p {
+  font-size: 18px;
+  font-weight: 200;
+  font-family: "Montserrat", sans-serif;
+  color: #8d8c8c;
+}
+.contact__options {
+  display: flex;
+  flex-direction: row;
+  color: #e4e4e4;
+  gap: 20px;
+  align-items: center;
+}
+.contact__icon {
+  width: 40px;
+  height: 100px;
+}
+
+.contact__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.contact_form {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.contact_form p {
+  font-size: 18px;
+  font-weight: 200;
+  font-family: "Montserrat", sans-serif;
+  color: #8d8c8c;
+}
+.contact_form input {
+  width: 100%;
+  height: 8vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+.contact_form textarea {
+  width: 100%;
+  height: 8vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  line-height: 8vh;
+  resize: none;
+}
+.btn-form {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  gap: 5px;
+}
