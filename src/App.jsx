@@ -7,12 +7,12 @@ import Projects from "./components/Projects/Projects";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import "./global.css";
-import Nav from "./components/nav/Nav";
+import Navbar from "./components/nav/Navbar";
 const App = () => {
   return (
     <div className="app_container">
       {" "}
-      <Nav />
+      <Navbar />
       <div className="app_content">
         <Hero />
         <About />
