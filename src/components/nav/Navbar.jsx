@@ -1,7 +1,6 @@
 import React from "react";
 import "./nav.css";
-import I from "../../assets/man_smoke.jpg";
-import { FaHome } from "react-icons/fa";
+ import { FaHome } from "react-icons/fa";
 import { FaRegEye } from "react-icons/fa";
 import { MdOutlineContactSupport } from "react-icons/md";
 import { IoMail } from "react-icons/io5";

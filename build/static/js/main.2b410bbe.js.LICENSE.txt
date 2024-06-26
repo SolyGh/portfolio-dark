@@ -1,39 +1,108 @@
-/**
- * @license React
- * react-dom.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
 
-/**
- * @license React
- * react-jsx-runtime.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!/**:!=! 
+!/**:!=!
 
-/**
- * @license React
- * react.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* @license React:!=! 
+!* @license React:!=!
 
-/**
- * @license React
- * scheduler.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* react-dom.production.min.js:!=! 
+!* react-dom.production.min.js:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* Copyright (c) Facebook, Inc. and its affiliates.:!=! 
+!* Copyright (c) Facebook, Inc. and its affiliates.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* This source code is licensed under the MIT license found in the:!=! 
+!* This source code is licensed under the MIT license found in the:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* LICENSE file in the root directory of this source tree.:!=! 
+!* LICENSE file in the root directory of this source tree.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*/:!=! 
+!*/:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!/**:!=! 
+!/**:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* @license React:!=! 
+!* @license React:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* react-jsx-runtime.production.min.js:!=! 
+!* react-jsx-runtime.production.min.js:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* Copyright (c) Facebook, Inc. and its affiliates.:!=! 
+!* Copyright (c) Facebook, Inc. and its affiliates.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* This source code is licensed under the MIT license found in the:!=! 
+!* This source code is licensed under the MIT license found in the:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* LICENSE file in the root directory of this source tree.:!=! 
+!* LICENSE file in the root directory of this source tree.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*/:!=! 
+!*/:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!/**:!=! 
+!/**:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* @license React:!=! 
+!* @license React:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* react.production.min.js:!=! 
+!* react.production.min.js:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* Copyright (c) Facebook, Inc. and its affiliates.:!=! 
+!* Copyright (c) Facebook, Inc. and its affiliates.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* This source code is licensed under the MIT license found in the:!=! 
+!* This source code is licensed under the MIT license found in the:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* LICENSE file in the root directory of this source tree.:!=! 
+!* LICENSE file in the root directory of this source tree.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*/:!=! 
+!*/:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!/**:!=! 
+!/**:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* @license React:!=! 
+!* @license React:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* scheduler.production.min.js:!=! 
+!* scheduler.production.min.js:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* Copyright (c) Facebook, Inc. and its affiliates.:!=! 
+!* Copyright (c) Facebook, Inc. and its affiliates.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*:!=! 
+!*:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* This source code is licensed under the MIT license found in the:!=! 
+!* This source code is licensed under the MIT license found in the:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!* LICENSE file in the root directory of this source tree.:!=! 
+!* LICENSE file in the root directory of this source tree.:!=!
+
+C:\Users\Soly\Desktop\portfolio\portfolio-app\build>echo(!*/:!=! 
+!*/:!=!
