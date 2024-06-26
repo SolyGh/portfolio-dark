@@ -7,7 +7,7 @@ import { MdOutlineContactSupport } from "react-icons/md";
 import { IoMail } from "react-icons/io5";
 import Me from "../../assets/صورة واتساب بتاريخ 2024-06-26 في 02.41.01_38c03558.jpg";
 
-const Nav = () => {
+const Navbar = () => {
   return (
     <nav id="nav">
       <div>
@@ -21,6 +21,7 @@ const Nav = () => {
       <div className="nav_el">
         <FaHome className="nav_icon" />
         Home
+        {/*  */}
       </div>
       <div className="nav_el">
         <MdOutlineContactSupport className="nav_icon" />
@@ -38,4 +39,4 @@ const Nav = () => {
   );
 };
 
-export default Nav;
+export default Navbar;
